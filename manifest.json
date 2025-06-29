@@ -1,0 +1,16 @@
+{
+  "name": "F1 - Productivity",
+  "short_name": "F1",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#03dac6",
+  "description": "Personal Productivity App for ambitious achievers",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
